@@ -1,2 +1,2 @@
 # Chaotic-Web-Snippets
-Plugin/Extension for creating elegant sections on a website.
+Find and export unique sections for web-builders.
